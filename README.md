@@ -9,3 +9,4 @@
 - [Set](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/datastructure/set.md)
 - [Map](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/datastructure/map.md)
 - [Stack and Queue](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/datastructure/queueandstack.md)
+- [Properties](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/datastructure/properties.md)
