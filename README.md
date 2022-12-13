@@ -10,3 +10,6 @@
 - [Map](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/datastructure/map.md)
 - [Stack and Queue](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/datastructure/queueandstack.md)
 - [Properties](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/datastructure/properties.md)
+
+## 스프링
+- [의존성 주입](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/spring/autowired.md)
