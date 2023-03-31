@@ -1,5 +1,8 @@
 # ComputerScience
 
+## 자바
+- [추상클래스와 인터페이스의 차이](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/java/abstract.md) 
+
 ## 접근제어
 - [쿠키와 세션의 차이](https://github.com/SybooSyboo782/ComputerScience/blob/main/mds/access-control.md)
 
